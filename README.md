@@ -48,8 +48,13 @@ top-tier-research-reviewer/
 │           └── summarize_results.py
 └── docs/
     ├── examples.md
-    └── design_notes.md
+    ├── design_notes.md
+    └── 中文说明.md
 ```
+
+## Chinese Documentation
+
+中文说明见 [`docs/中文说明.md`](docs/中文说明.md)。
 
 ## Main Workflows
 
